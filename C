@@ -1,1 +1,1 @@
-This is file C modified in fork.
+This is file C modified in origin.
